@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+.container{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap: 100px;
+}
+p{
+    font-size: 70px ;
+}
+b{
+    color: #B8884B;
+}
+span{
+    font-size: 19px;
+}
+button{
+    font-size: 18px;
+    padding: 15px;
+    border: 2px solid #B8884B;
+    color: #B8884B;
+    cursor: pointer;
+}
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+    padding: 25px;
+}
+.l{
+    width: 220px;
+    height: 700px;
+}
+.info{
+    padding: 45px
+}
+.nav{
+    padding: 45px
+}
+.button{
+    padding: 45px
+}
