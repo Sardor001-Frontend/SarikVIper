@@ -46,20 +46,20 @@
 // console.log(isMarried);
 
 /////////////////////////////////////////////////////
-const totalBalance = prompt('Balance');
-const income = prompt('Income');
-const expense = prompt('expense');
+// const totalBalance = prompt('Balance');
+// const income = prompt('Income');
+// const expense = prompt('expense');
 
-const incomePer = (Number(income) / Number(totalBalance)) * 100;
-const expensePer = (Number(expense) / Number(totalBalance)) * 100;
+// const incomePer = (Number(income) / Number(totalBalance)) * 100;
+// const expensePer = (Number(expense) / Number(totalBalance)) * 100;
 
-alert(`
-Your balance: ${totalBalance};
-Your income percentage: ${incomePer}%;
-Your expense percentage: ${expensePer}%;
-`)
+// alert(`
+// Your balance: ${totalBalance};
+// Your income percentage: ${incomePer}%;
+// Your expense percentage: ${expensePer}%;
+// `)
 
-console.log(Number('232dsd'));
+// console.log(Number('232dsd'));
              
 
 
